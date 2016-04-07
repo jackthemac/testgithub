@@ -1,13 +1,14 @@
-<DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<title>testfile</title>
-</head>
-<body onclick="document.write("wasted space")>
-<p>The folllowing is for testing purposes only.</p>
-<p>I walk this land<br>
-   And it is only<br>
-   Waisted space</p>
-   </body>
-   </html>
+<DOCTYPE html>  
+<html lang="en">  
+<head>  
+ <meta charset="utf-8">  
+ <title>testfile</title>  
+ </head>  
+ <body onclick="document.write('wasted space')">  
+ <p>The folllowing is for testing purposes only.</p>  
+ <p>I walk this land<br>  
+ And it is only<br>  
+  Waisted space</p>  
+  </body> 
+</html>  
+
